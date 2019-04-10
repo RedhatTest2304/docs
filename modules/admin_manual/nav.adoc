@@ -1,7 +1,6 @@
 * xref:index.adoc[Admin Manual]
 ** xref:release_notes.adoc[Release Notes]
 ** xref:whats_new_admin.adoc[What's New]
-** xref:faq/index.adoc[FAQ]
 ** xref:installation/index.adoc[Installation]
 *** xref:installation/system_requirements.adoc[System Requirements]
 *** Installation Options
@@ -159,4 +158,5 @@
 **** xref:enterprise/user_management/saml_2.0_sso.adoc[SAML 2.0 Based SSO]
 ** xref:document_classification/index.adoc[Document Classification]
 ** Troubleshooting
+*** xref:troubleshooting/faq.adoc[Frequently Asked Questions]
 *** xref:troubleshooting/providing_logs_and_config_files.adoc[Retrieve Log Files and Configuration Settings]
