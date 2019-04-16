@@ -157,6 +157,6 @@
 **** xref:enterprise/user_management/user_auth_shibboleth.adoc[Shibboleth Integration]
 **** xref:enterprise/user_management/saml_2.0_sso.adoc[SAML 2.0 Based SSO]
 ** xref:document_classification/index.adoc[Document Classification]
+** xref:faq/index.adoc[Frequently Asked Questions]
 ** Troubleshooting
-*** xref:troubleshooting/faq.adoc[Frequently Asked Questions]
 *** xref:troubleshooting/providing_logs_and_config_files.adoc[Retrieve Log Files and Configuration Settings]
