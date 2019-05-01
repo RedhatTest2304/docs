@@ -43,7 +43,7 @@ WARNING: Install unsupported apps at your own risk.
 [[check-ownclouds-mandatory-requirements]]
 == Check ownCloud’s Mandatory Requirements
 
-ownCloud's xref:installation/manual_installation#requirements[mandatory requirements] (such as PHP versions and extensions) can change from one version to the next.
+ownCloud's xref:installation/manual_installation#install-the-required-packages[mandatory requirements] (such as PHP versions and extensions) can change from one version to the next.
 Ensure that you review them and update your server(s), if required, before upgrading ownCloud.
 
 [[enable-maintenance-mode]]
