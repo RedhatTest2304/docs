@@ -21,17 +21,17 @@ we officially recommend and support:
 | Operating System
 |
 * Ubuntu 16.04 and 18.04
-* Debian 7, 8 and 9;
-* SUSE Linux Enterprise Server 12 with SP1, SP2 and SP3
+* Debian 7, 8, and 9;
+* SUSE Linux Enterprise Server 12 with SP1, SP2, and SP3
 * Red Hat Enterprise Linux/Centos 6.9, 7.3, 7.4, and 7.5
-* Fedora 27, 28 and 29
+* Fedora 27, 28, and 29
 * openSUSE Leap 42.3 and  15
 
 | Database
 |
 * MySQL or MariaDB 5.5+
 * Oracle 11g
-* PostgreSQL 9 (versions 10 and above are not _yet_ supported)
+* PostgreSQL 9 (versions 10 and above are not yet supported)
 * SQLite
 
 | Web server
@@ -46,7 +46,7 @@ we officially recommend and support:
 If you use Ubuntu 16.04 and want to use PHP 7.x:
 
 * PHP 7.1 and 7.2 are only available via PPA. 
-  To add {ppa-guide-url}[a PPA (Personal Package Archive)] to your system, use this command: `sudo add-apt-repository ppa:user/ppa-name`.
+  To add a {ppa-guide-url}[ PPA (Personal Package Archive)] to your system, use this command: `sudo add-apt-repository ppa:user/ppa-name`.
 * PHP 7.2 standard installable, but you have to install some mandatory modules yourself, such as 
 {php-intl-ext-url}[intl].
 ====
@@ -90,7 +90,7 @@ It is recommended to use *PHP {recommended-php-version}* as older versions have 
 === Desktop
 
 * Windows 7+
-* Mac OS X 10.7+ (*64-bit only*)
+* Mac OS X 10.7+ (64-bit only)
 * CentOS 6 and 7 (64-bit only)
 * Debian 8.0 and 9.0
 * Fedora 27, 28, and 29
@@ -103,7 +103,7 @@ previous https://wiki.ubuntu.com/LTS[LTS].
 Client Versions
 ~~~~~~~~~~~~~~~
 
-Here are the oldest versions of the Desktop Client, Android app and iOS app supported with the latest server release:
+Here are the oldest versions of the Desktop Client, Android app, and iOS app supported with the latest server release:
 
 * Desktop Client 2.3.3
 * Android App
